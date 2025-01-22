@@ -1,0 +1,8 @@
+{
+    "neonews" :{
+        "id" : "string",
+        "title" : "string",
+        "updatetime" : "string",
+        "url" : "string"
+    }
+}
